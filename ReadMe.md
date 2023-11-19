@@ -51,3 +51,8 @@
 | [7. Какое следующее слово](./contest_03/07/main.cpp) | ![](./img/cpp.png) |
 | [8. Уникальное число](./contest_03/08/main.go) |  ![](./img/go.png) |
 | [9. Подходящая пара чисел](./contest_03/09/main.cpp) | ![](./img/go.png) |
+
+|[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
+| --- | :-: |
+| [1. Количество выполненных задач](./contest_04/01/main.go) | ![](./img/go.png) |
+| [2. Количество выполненных задач](./contest_04/02/main.cpp) |  ![](./img/cpp.png) |
