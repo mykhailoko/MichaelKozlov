@@ -65,4 +65,4 @@
 | [4. Класс. Point](./contest_05/04/main.cpp) | ![](./img/cpp.png) |
 | [5. Класс. Большое целое число](./contest_05/05/main.cpp) |  ![](./img/cpp.png) |
 | [6. Get a cat](./contest_05/06/main.go) | ![](./img/go.png) |
-| [7. Класс. Чайник](./contest_05/07/go.cpp) | ![](./img/go.png) |
+| [7. Класс. Чайник](./contest_05/07/main.go) | ![](./img/go.png) |
