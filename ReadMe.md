@@ -71,3 +71,7 @@
 | --- | :-: |
 | [1. Класс. Shape](./contest_06/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Класс. Менеджер](./contest_06/02/main.cpp) |  ![](./img/cpp.png) |
+
+|[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
+| --- | :-: |
+| [1. Класс. RunnableСlock](./contest_07/01/main.cpp) | ![](./img/cpp.png) |
